@@ -106,3 +106,7 @@ TW_EXCLUDE_TWRPAPP := true
 
 # Backup data/media
 TW_BACKUP_DATA_MEDIA := true
+
+# More
+TW_EXTRA_LANGUAGES := true
+TW_DEFAULT_LANGUAGE := zh_CN
